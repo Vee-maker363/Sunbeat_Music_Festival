@@ -186,6 +186,6 @@ The result is not just a database that works, but one that can be **trusted**.
 
 ### Full Implementation
 
-The complete codebase — including schema definitions, indexes, data population, and all validation tests — is available in this repository:
+The complete codebase — including schema definitions, indexes, data population, and all validation tests — are available in this repository:
 
 👉 `https://github.com/Vee-maker363/Sunbeam_Festival`
